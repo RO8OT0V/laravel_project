@@ -5,13 +5,13 @@
 
 #### phpMyAdmin 
 
-Server: sql7.freemysqlhosting.net
+- Server: sql7.freemysqlhosting.net
 
-Name/Username: sql7713735
+- Name/Username: sql7713735
 
-Password: 3tuYp97Vze
+- Password: 3tuYp97Vze
 
-Port number: 3306
+- Port number: 3306
 
 #### Tables
 
@@ -22,7 +22,7 @@ Port number: 3306
 
 #### Host info
 
-IP/PORT: 35.204.242.44:8000
+- IP/PORT: 35.204.242.44:8000
 
 #### Links
 
