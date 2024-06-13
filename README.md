@@ -5,7 +5,7 @@
 
 ## Acknowledgements
 
- - [Link information]([https://awesomeopensource.com/project/elangosundar/awesome-README-templates](https://github.com/RO8OT0V/laravel_project/blob/main/README.md#information))
+ - [Link information](https://github.com/RO8OT0V/laravel_project/tree/main#information)
 
 
 ## Information
